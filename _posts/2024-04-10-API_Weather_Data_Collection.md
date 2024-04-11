@@ -12,7 +12,7 @@ In my first post, I would like to share the script that accesses through API the
 These scripts were created when we deployed PROSPECT reactor neutrino experiment at the Oak Ridge National Lab. I was assigned to look at the correlation of the neutron rates from cosmic rays with atmospheric pressure and other environmental parameters.
 
 
-At the time, we did not have the access to the pressure data around Oak Ridge (or we thought we did not), and I was looking for ways to obtain these datasets from online. One of the ways was to utilize website OpenWeather through the API requests. OpenWeather has a variety of options of subscriptions for different datasets, including historical datasets. The free ones, however, include current weather and simple forecasts for 5 days. The maximum call per minute that is given with a free access is 60.
+At the time, we did not have the access to the pressure data around Oak Ridge (or we thought we did not), and I was looking for ways to obtain these datasets from online. One of the ways I discovered was to utilize website OpenWeather through the API requests. OpenWeather has a variety of options of subscriptions for different datasets, including historical datasets. The free ones, however, include current weather and simple forecasts for 5 days. The maximum call per minute that is given with a free access is 60.
 
 
 ![alt text](https://github.com/olgakyzylova/blog/blob/main/_posts/imgs/Picture1.png "Screenshot of Free Plan on OpenWeather Website")
