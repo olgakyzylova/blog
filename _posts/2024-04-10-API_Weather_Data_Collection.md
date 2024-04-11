@@ -34,4 +34,4 @@ For PROSPECT experiment, we only cared about absolute time (dt) and pressure (pr
 
 
 
-The script is written in python, and is sending API requests every 5 mins, while reading the results into a text file for a further analysis.
+The script is written in python, and is sending API requests every 5 mins, while writing the results into a text file for a further analysis.
